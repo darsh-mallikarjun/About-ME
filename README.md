@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 I’m currently working on [Rashi Infra Ventures(India) Pvt Ltd]([https://github.com/AOSSIE-Org/Resonate](https://www.rashiventures.com/))
+- 👨‍💻 I’m currently working on [Rashi Infra Ventures(India) Pvt Ltd]((https://www.rashiventures.com/))
 
 - 📑 Check out my resume here - [My Resume]
 
